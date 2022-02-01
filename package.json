@@ -9,12 +9,12 @@
     "start": "node __sapper__/build"
   },
   "dependencies": {
+    "@sveltestack/svelte-query": "^1.6.0",
     "compression": "^1.7.1",
     "polka": "next",
     "sirv": "^1.0.0"
   },
   "devDependencies": {
-    "@sveltestack/svelte-query": "^1.6.0",
     "file-loader": "^6.0.0",
     "sapper": "^0.28.0",
     "svelte": "^3.17.3",
